@@ -1,0 +1,137 @@
+body{
+     background-color: rgba(105, 224, 151, 0.729);
+     font-family: serif;
+     margin:3%;
+     scale: 100%;
+
+}
+
+.navbar a{
+    float:left;
+    display:block;
+    text-align:center ;
+    padding: 14px 20px;
+    text-decoration: none;
+    block-size: 100px;
+    font-size: 50px;
+}
+.navbar{
+    background-color: rgb(240, 235, 235);
+    overflow: auto;
+    text-align: center;
+}
+
+.Welcome_txt{
+    text-align: center;
+    padding-top: 5%;
+    font-style: italic;
+    font-size: 100px;
+   
+
+}
+
+1st{ 
+    text-align:left ;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+h2,h3{
+    text-align:left;
+    padding-left: 2%;
+    font-size: 100px;
+
+}
+
+.first_article{
+    display: grid;
+    padding-bottom: 2%;
+}
+
+article{
+    padding-top:2%;
+    padding-bottom:2%;
+    padding-left: 2%;
+    padding-right: 2%; 
+    font-size: 25px;
+}
+
+#brandintro{
+    padding-top: 2%;
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+    font-family: 'popperd';
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px;
+}
+
+intro_band{
+    background-color: rgb(181, 86, 232);
+    padding-bottom: 2%;
+    padding-top: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+} 
+
+.navbar a:hover {
+  background-color: #c9f47f;
+  color: black;
+  text-align: center;
+}
+
+
+.navbar a.active {
+  background-color: #601de6;
+  color: white;
+} 
+
+.img1{
+    width: 0.5%;
+    height: 0.5%;
+    float: left;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+}
+.image-container {
+  width: 2000px;
+  height: 1000px;
+  overflow: fill;
+  margin-bottom: 25px;
+  image-resolution: 4k;
+  margin-left: 12%;
+  margin-right: 12%;
+  padding-left: 5%;
+  padding-right: 5%;
+ 
+
+}
+
+.image-container img {
+  width: 150%;
+  height: 100%;
+  object-fit: fill;
+}
+
+li{
+    font-size: 50px;
+} 
+
+p{
+    font-size: 50px;
+    text-align: ;
+    }
+
+.title{
+    font-size: 100px;
+} 
+.lifestyle-article{
+    display: grid;
+    padding-bottom: 2%;
+    font-size: 50px;
+    text-align: justify;
+}

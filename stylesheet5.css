@@ -1,0 +1,11 @@
+.navbar a{
+    float:left;
+    display:block;
+    text-align:left ;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar{
+    background-color: rgb(240, 235, 235);
+    overflow: auto;
+}

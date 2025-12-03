@@ -1,0 +1,50 @@
+.navbar a{
+    float:left;
+    display:block;
+    text-align:left ;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+h1{
+    padding-top: 6.5%;
+    padding-left: 3.5%;
+    
+}
+
+.table{
+    padding-left: 3.5%;
+
+}
+
+#G{
+    padding-left: 3.5%;
+}
+
+body{
+    background-color: rgb(194, 233, 233);
+} 
+.navbar{
+    background-color: rgb(240, 235, 235);
+    overflow: auto;
+}
+.row{
+    background-color: rgb(240, 235, 235);
+    overflow: auto;
+    text-align: center;
+    padding: 10px;
+    height: auto;
+}
+.column{
+    background-color: rgb(222, 239, 239);
+    overflow: auto;
+    text-align: center;
+    padding: 10px;
+    height: auto;
+} 
+.size{
+    width:50%;
+    height:50%;
+   transform: scale(1.1);
+  transform-origin: 0 0;
+}
